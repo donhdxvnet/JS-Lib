@@ -1,10 +1,5 @@
 /*
- * Copyright (c) 2007-2013 DBee SA 
- * 34-36 rue de la Belle Feuille 92100 Boulogne Billancourt, FRANCE
- * Tous droits reserves
- *
  * $Id$
- *
  */
 var CSSManager = (function() {
 	var LINK_ID = "dyn_module_css";
